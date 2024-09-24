@@ -21,7 +21,7 @@ repository               : "rongmax-gufei/rongmax-gufei.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "SquarePhoto.png"
   name             : "顾飞 🐝 Fei GU"
   pronouns         : # example: "she/her"  
   bio              : "R&D Expert Manager"
