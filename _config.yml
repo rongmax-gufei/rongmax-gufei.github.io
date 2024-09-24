@@ -22,12 +22,12 @@ repository               : "rongmax-gufei/rongmax-gufei.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "顾飞 Fei GU"
+  name             : "顾飞 🐝 Fei GU"
   pronouns         : # example: "she/her"  
   bio              : "R&D Expert Manager"
   location         : "Pudong, Shanghai, China"
   employer         : "SAIC Mobility"
-  uri              : "fei.gu@skema.edu" # URL
+  uri              : # URL
   email            : "fei.gu@skema.edu" 
 
   # Academic websites
