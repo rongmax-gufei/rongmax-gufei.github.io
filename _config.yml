@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "RongMax.Tech / Fei GU"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "顾飞 Fei GU 🏄🏻‍♀"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "R&D Expert Manager"
+  location         : "Pudong, Shanghai, China"
+  employer         : "SAIC Mobility"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "fei.gu@skema.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
