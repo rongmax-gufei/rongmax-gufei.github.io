@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "RongMax.Tech / Fei GU"
+title                    : "Fei GU"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Fei GU"
 description              : &description "personal description"
 url                      : https://rongmax-gufei.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "rongmax-gufei/rongmax-gufei.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,12 +22,12 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "顾飞 Fei GU 🏄🏻‍♀"
+  name             : "顾飞 Fei GU"
   pronouns         : # example: "she/her"  
   bio              : "R&D Expert Manager"
   location         : "Pudong, Shanghai, China"
   employer         : "SAIC Mobility"
-  uri              : # URL
+  uri              : "fei.gu@skema.edu" # URL
   email            : "fei.gu@skema.edu" 
 
   # Academic websites
@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
