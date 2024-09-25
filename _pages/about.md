@@ -14,6 +14,7 @@ He obtained his Bachelor's degree in Computer Science and Technology from Southw
 Since 2018, He worked as a Research and Development Expert Manager at SAIC Mobility Co., Ltd., mainly responsible for Technical Architecture, Project Management and Software Integration Solutions. Prior to this, he worked as a Senior Software Engineer and Middleware Technology Expert in Fortune 500 companies such as China Telecom, China UnionPay and China Tobacco.
 
 Organizational / Association
-- Member of China Institute of Communications(CIC),Chinese Society of Engineers(SCE)
-- Member of IEEE,（Number:100556957）
-- Member of Committee on Deep Learning Professional,Chinese Association for Artificial Intelligence(CAAI),(Number:660946990)
+======
+*  Member of China Institute of Communications(CIC),Chinese Society of Engineers(SCE)
+*  Member of IEEE,（Number:100556957）
+*  Member of Committee on Deep Learning Professional,Chinese Association for Artificial Intelligence(CAAI),(Number:660946990)
