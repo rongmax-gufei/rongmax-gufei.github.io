@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV 🤵"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,54 +11,13 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Entrepreneurship and Innovation (Management of Big Data and Artificial Intelligence), Xi'an Jiaotong University X SKEMA Business School, 2026 (expected)
+* B.S. in Computer Science and Technology, Southwest Jiaotong University, 2015
 
-Work experience
+Appointments
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2018-present: SAIC Mobility Co., Ltd., Research and Development Expert Manager
+  * Build an Architecture Team from 0 to 1
+  * Establishment of Mobile Technology Team in Nanjing Branch
+  * Responsible for the research and development of all client business lines for the Unified Taxi Platform in Shanghai
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
