@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+📄 Download my full CV in PDF
+
 Education
 ======
 * M.S. in Entrepreneurship and Innovation (Management of Big Data and Artificial Intelligence), Xi'an Jiaotong University X SKEMA Business School, 2026 (expected)
