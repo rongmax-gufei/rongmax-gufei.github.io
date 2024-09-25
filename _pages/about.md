@@ -15,6 +15,6 @@ Since 2018, He worked as a Research and Development Expert Manager at SAIC Mobil
 
 Organizational / Association
 ======
-*  Member of China Institute of Communications(CIC),Chinese Society of Engineers(SCE)
-*  Member of IEEE,（Number:100556957）
-*  Member of Committee on Deep Learning Professional,Chinese Association for Artificial Intelligence(CAAI),(Number:660946990)
+*  Member of China Institute of Communications(CIC), Chinese Society of Engineers(SCE)
+*  Member of IEEE, (Number:100556957)
+*  Member of Committee on Deep Learning Professional, Chinese Association for Artificial Intelligence(CAAI), (Number:660946990)
