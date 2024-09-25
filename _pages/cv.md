@@ -18,7 +18,7 @@ Education
 
 Appointments
 ======
-* 2018-present: SAIC Mobility Co., Ltd., Research and Development Expert Manager
+* 2018-present: Research and Development Expert Manager in SAIC Mobility Co., Ltd.
   * Build an Architecture Team from 0 to 1
   * Establishment of Mobile Technology Team in Nanjing Branch
   * Responsible for the research and development of all client business lines for the Unified Taxi Platform in Shanghai
