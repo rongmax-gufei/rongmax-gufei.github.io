@@ -13,6 +13,8 @@ He obtained his Bachelor's degree in Computer Science and Technology from [South
 
 Since 2018, He worked as a Research and Development Expert Manager at [SAIC Mobility Co., Ltd.](https://www.saicmobility.com/), mainly responsible for Technical Architecture, Project Management and Software Integration Solutions. Prior to this, he worked as a Senior Software Engineer and Middleware Technology Expert in Fortune 500 companies such as China Telecom, China UnionPay and China Tobacco.
 
+In addition, he co-authored one textbook for national higher vocational education under the "Thirteenth Five-Year Plan," holds four software copyrights, and has one authorized national patent.
+
 Organizational / Association
 ======
 *  Member of Chinese Society of Engineers([SCE](https://assess-cse.cast.org.cn/front/home)),China Institute of Communications(CIC)
