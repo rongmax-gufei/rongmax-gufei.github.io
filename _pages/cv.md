@@ -18,13 +18,14 @@ Education
 
 Work Experience
 ======
-* 2018-present: **Research and Development Expert Manager** in SAIC Mobility Co., Ltd.
-  * Established a mobile infrastructure team
-  * Established a mobile team for the Nanjing branch
-  * Responsible for the Research and Development of all client business lines for The Unified Taxi Platform in Shanghai
+* 2018 - present: **Research and Development Expert Manager** in SAIC Mobility Co., Ltd.
+  * Established a mobile infrastructure team, September, 2018
+  * Established a mobile team for the Nanjing branch, March, 2019
+  * Research and Development Manager of [SAIC x AILab Robotaxi 2.0](https://www.saicmobility.com/robotaxi.html), February, 2022
+  * Research and Development Manager of [Shanghai Unified Taxi Platform](https://www.shcab.cn/index.html), July, 2022
 
 Software copyright
 ======
-*  September 30, 2024: Warehouse Management System (No.2024SR1463788)
-*  July 12, 2024: Mobile App Software of L·Y Nail (No.2024SR098431)
-*  March 7, 2024: Facial Recognition Liveness Detection Software (No.2024SR036357)
+*  Warehouse Management System (No. 2024SR1463788), September 30, 2024
+*  Mobile App Software of L·Y Nail (No. 2024SR098431), July 12, 2024
+*  Facial Recognition Liveness Detection Software (No. 2024SR036357), March 7, 2024
