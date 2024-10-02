@@ -19,10 +19,10 @@ Education
 Work Experience
 ======
 * 2018 - present: **Research and Development Expert Manager** in SAIC Mobility Co., Ltd.
-  * Established a mobile infrastructure team, September, 2018
-  * Established a mobile team for the Nanjing branch, March, 2019
-  * Research and Development Manager of [SAIC x AILab Robotaxi 2.0](https://www.saicmobility.com/robotaxi.html), February, 2022
   * Research and Development Manager of [Shanghai Unified Taxi Platform](https://www.shcab.cn/index.html), July, 2022
+  * Research and Development Manager of [SAIC x AILab Robotaxi 2.0](https://www.saicmobility.com/robotaxi.html), February, 2022
+  * Established a mobile team for the Nanjing branch, March, 2019
+  * Established a mobile infrastructure team, September, 2018
 
 Software copyright
 ======
