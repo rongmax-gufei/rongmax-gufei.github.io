@@ -18,6 +18,5 @@ In addition, he co-authored one textbook for national higher vocational educatio
 Association
 ======
 *  Member of Chinese Society of Engineers([SCE](https://assess-cse.cast.org.cn/front/home)), China Institute of Communications(CIC)
-*  Member of [IEEE](https://www.ieee.org/membership/join/index.html?WT.mc_id=hc_join), (Number:100556957)
-*  Member of Committee on Deep Learning Professional, Chinese Association for Artificial Intelligence([CAAI](https://caai.kejie.org.cn/member/login.php)), (Number:660946990)
-
+*  Member of [IEEE](https://www.ieee.org/membership/join/index.html?WT.mc_id=hc_join) (No. 100556957)
+*  Member of Committee on Deep Learning Professional, Chinese Association for Artificial Intelligence([CAAI](https://caai.kejie.org.cn/member/login.php)) (No. 660946990)
