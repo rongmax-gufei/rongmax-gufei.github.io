@@ -15,7 +15,7 @@ Since 2018, He worked as a Research and Development Expert Manager at [SAIC Mobi
 
 In addition, he co-authored one textbook for national higher vocational education under the "Thirteenth Five-Year Plan", holds four software copyrights, and has one authorized national patent.
 
-Professional Memberships
+Professional Memberships 🕸️
 ======
 *  Member of Chinese Society of Engineers([SCE](https://assess-cse.cast.org.cn/front/home)), China Institute of Communications(CIC)
 *  Member of [IEEE](https://www.ieee.org/membership/join/index.html?WT.mc_id=hc_join) (No. 100556957)
