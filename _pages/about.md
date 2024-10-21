@@ -16,7 +16,7 @@ Since 2018, He worked as a Research and Development Expert Manager at [SAIC Mobi
 In addition, he co-authored one textbook for national higher vocational education under the "Thirteenth Five-Year Plan", holds four software copyrights, and has one authorized national patent.
 
 Research interests
-------------------------
-Intelligent decision-making and machine learning
-Product development and innovation
-Digital transformation
+======
+* Intelligent decision-making and machine learning
+* Product development and innovation
+* Digital transformation
