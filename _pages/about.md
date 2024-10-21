@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Fei GU was born in Huangqiao Town, Jiangsu Province, the Violin Capital of China, and is a member of the [China Zhi Gong Party](https://www.zg.org.cn) (Public Interest Party).
+Fei GU was born in Huangqiao Town, Jiangsu Province, the Violin Capital of China, and is a member of the [China Public Interest Party](https://www.zg.org.cn) .
 
 He obtained his Bachelor's degree in Computer Science and Technology from [Southwest Jiaotong University](https://www.swjtu.edu.cn) ([ranked 59th in China](https://www.gaokao.cn/colleges/rank?fromcoop=bdkp&ranktype=4&schoolid=51)). Subsequently, he pursued advanced studies in Entrepreneurship and Innovation (Big Data and Artificial Intelligence Management) through a joint program between [Xi'an Jiaotong University](https://news.xjtu.edu.cn/info/1033/190939.htm) ([ranked 10th in China](https://www.gaokao.cn/colleges/rank?fromcoop=bdkp&ranktype=4&schoolid=330)) and [SKEMA Business School](https://www.skema.edu/en/programmes/msc-entrepreneurship-innovation) ([ranked 5th in France](https://www.skema.edu/en/rankings)).
 
