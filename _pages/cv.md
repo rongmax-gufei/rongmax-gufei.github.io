@@ -16,6 +16,12 @@ Education 📚︎
 * **M.S.** in Entrepreneurship and Innovation (Management of Big Data and Artificial Intelligence), **Xi'an Jiaotong University** x **SKEMA Business School**, 2026 (expected)
 * **B.S.** in Computer Science and Technology, **Southwest Jiaotong University**, 2015
 
+Professional Memberships
+======
+*  Member of Chinese Society of Engineers([SCE](https://assess-cse.cast.org.cn/front/home)), China Institute of Communications(CIC)
+*  Member of [IEEE](https://www.ieee.org/membership/join/index.html?WT.mc_id=hc_join) (No. 100556957)
+*  Member of Committee on Deep Learning Professional, Chinese Association for Artificial Intelligence([CAAI](https://caai.kejie.org.cn/member/login.php)) (No. 660946990)
+
 Training and Certifications 🧲
 ======
 * [Technology Transfer Manager](https://www.netcchina.com/archives/27228), September, 2024
