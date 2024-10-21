@@ -13,8 +13,8 @@ redirect_from:
 
 Education 📚︎
 ======
-* **M.S.** in Entrepreneurship and Innovation (Management of Big Data and Artificial Intelligence), **Xi'an Jiaotong University** x **SKEMA Business School**, 2026 (expected)
-* **B.S.** in Computer Science and Technology, **Southwest Jiaotong University**, 2015
+* M.S. in Entrepreneurship and Innovation (Management of Big Data and Artificial Intelligence), **Xi'an Jiaotong University** x **SKEMA Business School**, 2026 (expected)
+* B.S. in Computer Science and Technology, **Southwest Jiaotong University**, 2015
 
 Professional Memberships 🕸︎
 ======
